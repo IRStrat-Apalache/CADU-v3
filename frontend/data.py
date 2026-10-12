@@ -1931,6 +1931,12 @@ DOCUMENTS = {
     "sala-prensa": {
         "es": [
             {
+                "titulo": "CADU anuncia su Conferencia Telefónica de Resultados del Tercer Trimestre de 2026",
+                "date": "2026-10-12",
+                "prefix": "comunicados",
+                "file": "2026-10-12-CADU-Invitacion-3T26.pdf"
+            },
+            {
                 "titulo": "Retransmisión de Información",
                 "date": "2026-09-08",
                 "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Comunicados/2026-09-08-retransmision.pdf"
@@ -3094,6 +3100,12 @@ DOCUMENTS = {
             }
         ],
         "en": [
+            {
+                "titulo": "CADU announces 3Q26 Conference Call",
+                "date": "2026-10-12",
+                "prefix": "comunicados",
+                "file": "2026-10-12-CADU-Invitacion-3T26-en.pdf"
+            },
             {
                 "titulo": "Refiling of Information",
                 "date": "2026-09-08",
