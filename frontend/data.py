@@ -1336,6 +1336,11 @@ DOCUMENTS = {
         "es": [
             {
                 "titulo": "Presentación Corporativa",
+                "date": "2026-10",
+                "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Presentaciones/Presentacion-Corporativa-Oct-2026.pdf"
+            },
+            {
+                "titulo": "Presentación Corporativa",
                 "date": "2026-07",
                 "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Presentaciones/Presentacion-Corporativa-Jul-2026-.pdf"
             },
@@ -1383,6 +1388,11 @@ DOCUMENTS = {
             }
         ],
         "en": [
+            {
+                "titulo": "Corporate Presentation",
+                "date": "2026-10",
+                "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Presentaciones/Presentacion-Corporativa-Oct-2026.pdf"
+            },
             {
                 "titulo": "Corporate Presentation",
                 "date": "2026-07",
