@@ -1391,7 +1391,7 @@ DOCUMENTS = {
             {
                 "titulo": "Corporate Presentation",
                 "date": "2026-10",
-                "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Presentaciones/Presentacion-Corporativa-Oct-2026.pdf"
+                "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Presentaciones/Presentacion-Corporativa-Oct-2026-EN.pdf"
             },
             {
                 "titulo": "Corporate Presentation",
