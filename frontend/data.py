@@ -1941,6 +1941,16 @@ DOCUMENTS = {
     "sala-prensa": {
         "es": [
             {
+                "titulo": "PCR Verum incrementa a ‘A/M’ y ‘1/M’ las calificaciones corporativas de CADU y a ‘AA/M’ la calificación del CEBUR CADU 20V; Perspectiva ‘Estable’",
+                "date": "2026-11-11",
+                "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Comunicados/2026-11-11-Calificacion-Verum.pdf"
+            },
+            {
+                "titulo": "PCR Verum Incrementa a ‘A/M’ y ‘1/M’ Calificaciones Corporativas de CADU",
+                "date": "2026-11-11",
+                "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Comunicados/2026-11-11-PCR-Verum.pdf"
+            },
+            {
                 "titulo": "CADU anuncia su Conferencia Telefónica de Resultados del Tercer Trimestre de 2026",
                 "date": "2026-10-12",
                 "prefix": "comunicados",
@@ -3110,6 +3120,16 @@ DOCUMENTS = {
             }
         ],
         "en": [
+            {
+                "titulo": "PCR Verum upgrades CADU's corporate ratings to ‘A/M’ and ‘1/M’ and the CADU 20V Local Note rating to ‘AA/M’; ‘Stable’ Outlook",
+                "date": "2026-11-11",
+                "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Comunicados/2026-11-11-Calificacion-Verum.pdf"
+            },
+            {
+                "titulo": "PCR Verum Upgrades CADU's Corporate Ratings to ‘A/M’ and ‘1/M’ (Available in spanish)",
+                "date": "2026-11-11",
+                "url": "https://investorcloud.s3.us-east-1.amazonaws.com/cadu/Comunicados/2026-11-11-PCR-Verum.pdf"
+            },
             {
                 "titulo": "CADU announces 3Q26 Conference Call",
                 "date": "2026-10-12",
